@@ -34,6 +34,7 @@ th{
 td{
     border: 2px solid #486a6a;
     text-align: center;
+    border-radius: 10px;
     width: 250px;
 }
 
@@ -84,6 +85,16 @@ td{
     text-align: center;
     margin: auto;
 }
+
+.exper_table {
+    height: 25px;
+    width: 800px;
+    border: 2px solid #344c4c;
+    border-radius: 10px;
+    background-color: #e0e0d1;
+    text-align: center;
+    margin: auto;
+}
 .experience {
     height: 50px;
     width: 140px;
@@ -92,6 +103,7 @@ td{
     background-color: #d1e0e0;
     text-align: center;
     text-justify: distribute;
+    margin: auto;
 }
 
 li h3 {
