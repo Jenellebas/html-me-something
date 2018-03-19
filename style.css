@@ -4,8 +4,9 @@ body {
 }
 
 .headshot {
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 30%;
+    padding: 0px;
 }
 
 h1 {
@@ -15,11 +16,12 @@ h1 {
 footer{
     text-align: center;
     font-style: italic;
+    margin-top: 30px;
 }
 
 table{
     border: 5px solid #486a6a;
-    margin-left: 200px;
+    margin-left: 350px;
 }
 
 th{
@@ -29,4 +31,5 @@ th{
 td{
     border: 2px dashed #486a6a;
     text-align: center;
+    width: 250px;
 }
