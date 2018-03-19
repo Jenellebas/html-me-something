@@ -6,12 +6,6 @@ body {
 .headshot {
     height: 10%;
     width: 10%;
-    margin-left: 1250px;
-}
-
-div {
-    height: 200px;
-    width: 100px;
 }
 
 h1 {
@@ -20,11 +14,12 @@ h1 {
 
 footer{
     text-align: center;
+    font-style: italic;
 }
 
 table{
-    border: 2px solid #486a6a;
-    margin-left: 600px;
+    border: 5px solid #486a6a;
+    margin-left: 200px;
 }
 
 th{
@@ -32,8 +27,6 @@ th{
 }
 
 td{
-    height: 45px;
-    width: 300px;
-    border: 1px dashed #486a6a;
+    border: 2px dashed #486a6a;
     text-align: center;
 }
