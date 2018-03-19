@@ -6,13 +6,16 @@ body {
 .headshot {
     height: 30%;
     width: 30%;
-    padding: 0px;
+    padding: -5px;
 }
 
 h1 {
     text-align: center;
 }
 
+.section{
+    text-align: left;
+}
 footer{
     text-align: center;
     font-style: italic;
@@ -35,11 +38,25 @@ td{
 }
 
 .logo {
+    height: 30%;
+    width: 30%;
     margin-left: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
+}
+
+.logo2 {
+    height: 10%;
+    width: 10%;
+    margin-left: 50px;
+    margin-bottom: 2px;
 }
 
 #goshen {
+    color: #344c4c;
+    text-decoration: none;
+}
+
+.jobs {
     color: #344c4c;
     text-decoration: none;
 }
@@ -51,4 +68,18 @@ td{
     border-radius: 10px;
     background-color: #d1e0e0;
     text-align: center;
+}
+
+.experience {
+    height: 50px;
+    width: 140px;
+    border: 2px solid #344c4c;
+    border-radius: 10px;
+    background-color: #d1e0e0;
+    text-align: center;
+    text-justify: distribute;
+}
+
+li h3 {
+    font-style: italic
 }
