@@ -1,6 +1,6 @@
 body {
     background-color:#668d8d;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .headshot {
@@ -19,5 +19,21 @@ h1 {
 }
 
 footer{
+    text-align: center;
+}
+
+table{
+    border: 2px solid #486a6a;
+    margin-left: 600px;
+}
+
+th{
+    font-weight: bold;
+}
+
+td{
+    height: 45px;
+    width: 300px;
+    border: 1px dashed #486a6a;
     text-align: center;
 }
