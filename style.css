@@ -40,7 +40,15 @@ td{
 }
 
 #goshen {
-    margin-left: 4px;
     color: #344c4c;
     text-decoration: none;
+}
+
+.education {
+    height: 25px;
+    width: 120px;
+    border: 2px solid #344c4c;
+    border-radius: 10px;
+    background-color: #d1e0e0;
+    text-align: center;
 }
