@@ -1,5 +1,5 @@
 body {
-    background-color:#668d8d;
+    background-color:#b3cbcb;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -32,4 +32,15 @@ td{
     border: 2px dashed #486a6a;
     text-align: center;
     width: 250px;
+}
+
+.logo {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#goshen {
+    margin-left: 4px;
+    color: #344c4c;
+    text-decoration: none;
 }
