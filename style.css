@@ -2,3 +2,13 @@ body {
     background-color:#668d8d;
     font-family: 'Lucida Sans', sans-serif;
 }
+
+image {
+    height: 100px;
+    width: 100px;
+}
+
+div {
+    height: 200px;
+    width: 100px;
+}
