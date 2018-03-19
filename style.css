@@ -14,7 +14,7 @@ h1 {
 }
 
 .section{
-    text-align: left;
+    text-align: center;
 }
 footer{
     text-align: center;
@@ -32,7 +32,7 @@ th{
 }
 
 td{
-    border: 2px dashed #486a6a;
+    border: 2px solid #486a6a;
     text-align: center;
     width: 250px;
 }
@@ -72,6 +72,7 @@ td{
     border-radius: 10px;
     background-color: #d1e0e0;
     text-align: center;
+    margin: auto;
 }
 
 .educ_table {
@@ -81,6 +82,7 @@ td{
     border-radius: 10px;
     background-color: #d1e0e0;
     text-align: center;
+    margin: auto;
 }
 .experience {
     height: 50px;
@@ -94,4 +96,8 @@ td{
 
 li h3 {
     font-style: italic
+}
+
+td div .education {
+    text-justify: distribute;
 }
